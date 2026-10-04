@@ -9,6 +9,17 @@ KSP 是老 Unity 引擎（2019.4 / DirectX 11），本身没有任何 DLSS 支�
 
 ---
 
+## 下载
+
+**完整包在 [Releases](https://github.com/helloqqwq/KSP-DLSS5/releases/latest) 里**
+（`KSP-DLSS5.zip`，约 148 MB）。
+
+> 本仓库只放文档、脚本和小文件。NVIDIA 的两个运行时
+> （`nvngx_dlss.dll` 56 MB、`nvngx_dlssnr.dll` 158 MB）超过 GitHub 单文件
+> 100 MB 的限制，因此通过 **Release 附件**分发。
+
+---
+
 ## 一、一键安装
 
 1. 用 Steam 右键 KSP → 管理 → 浏览本地文件，确认能看到 `KSP_x64.exe`
